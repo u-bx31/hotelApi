@@ -12,7 +12,7 @@
         "Wifi"
       ],
       "date_added": "11-Nov-2021",
-      "avaible": false
+      "avaible": true
     },
     {
       "id": "2",
@@ -25,7 +25,8 @@
         "wifi",
         "Spa"
       ],
-      "date_added": "11-Nov-2021"
+      "date_added": "11-Nov-2021",
+      "avaible": true
     },
     {
       "id": "3",
@@ -40,7 +41,8 @@
         "private_Section",
         "Spa"
       ],
-      "date_added": "11-Nov-2021"
+      "date_added": "11-Nov-2021",
+      "avaible": true
     },
     {
       "id": "4",
@@ -53,7 +55,8 @@
         "dinner",
         "wifi"
       ],
-      "date_added": "11-Nov-2021"
+      "date_added": "11-Nov-2021",
+      "avaible": true
     },
     {
       "roomType": "Economy room",
@@ -65,7 +68,8 @@
         "Lunch",
         "Spa"
       ],
-      "id": "Ysyb666"
+      "id": "Ysyb666",
+      "avaible": true
     },
     {
       "roomType": "Family room",
@@ -78,7 +82,8 @@
         "wifi",
         "Spa"
       ],
-      "id": "MV3yXxd"
+      "id": "MV3yXxd",
+      "avaible": true
     }
   ],
   "roomType": [
